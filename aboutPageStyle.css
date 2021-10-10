@@ -140,7 +140,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section1 .sectionTitle, .section2 .sectionTitle {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(255,255,255,1.00);
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
 	text-align: left;
@@ -169,7 +169,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section2 .sectionContentTitle {
 	font-family: sans-serif;
 	color: rgba(255,252,252,1.00);
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: 700;
 	text-align:left;
 }
@@ -532,3 +532,4 @@ footer .footerNote {
 	max-width: 719px;
 }
 }
+
