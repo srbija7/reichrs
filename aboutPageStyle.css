@@ -518,11 +518,13 @@ footer .footerDisclaimer {
 	float: left;
 	margin-left: 3%;
 	font-family: sans-serif;
+	color: rgba(158,158,158,1.00);
 }
 footer .footerNote {
 	float: right;
 	margin-right: 3%;
 	font-family: sans-serif;
+	color: rgba(158,158,158,1.00);
 }
 
 .bizmeeting {
