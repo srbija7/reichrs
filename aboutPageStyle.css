@@ -217,18 +217,14 @@ footer .footerDisclaimer {
 	font-family: sans-serif;
 	font-size: 14px;
 	line-height: 18px;
-	color: rgba(104,103,103,1.00);
 	font-weight: 700;
 }
 footer .footerDisclaimer span {
-	color: rgba(181,178,178,1.00);
-	font-weight: 400;
+
 }
 footer .footerNote {
 	font-family: sans-serif;
-	font-size: 1em;
 	line-height: 1.7;
-	color: rgba(104,103,103,1.00);
 }
 footer .footerNote span {
 	color: rgba(181,178,178,1.00);
@@ -332,6 +328,7 @@ footer {
 	display: block;
 	text-align: center;
 	font-family: sans-serif;
+	text-shadow: 0px 0px rgba(255,255,255,1.00);
 }
 .contactuspic {
 	max-width: 100%;
@@ -420,11 +417,13 @@ footer .footerDisclaimer {
 	float: left;
 	margin-left: 3%;
 	font-family: sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 18px;
 }
 footer .footerNote {
 	float: right;
 	font-family: sans-serif;
-	font-size: 1em;
 	line-height: 1.7;
 }
 .contactuspic {
@@ -442,6 +441,10 @@ footer .footerNote {
 	float: left;
 	padding-right: 10px;
 }
+.footerRight {
+	text-align: right;
+}
+
 
 }
 
@@ -518,14 +521,14 @@ footer .footerDisclaimer {
 	float: left;
 	margin-left: 3%;
 	font-family: sans-serif;
-	color: rgba(158,158,158,1.00);
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 18px;
 }
 footer .footerNote {
 	float: right;
 	margin-right: 3%;
 	font-family: sans-serif;
-	color: rgba(158,158,158,1.00);
-	font-size: 1em;
 	line-height: 1.7;
 }
 
@@ -537,5 +540,13 @@ footer .footerNote {
 }
 .sectioncontent {
 }
+.footerRight {
+	text-align: right;
+}
+.footerRight {
+	text-align: right;
+}
+
+
 
 }
