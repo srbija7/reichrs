@@ -112,10 +112,10 @@ hr {
 header .profileHeader p {
 	font-family: sans-serif;
 	color: rgba(255,255,255,1.00);
-	font-size: 15px;
 	line-height: 1.8;
 	overflow-y: auto;
 	text-align: justify;
+	font-size: 1em;
 }
 header .socialNetworkNavBar {
 	text-align: center;
@@ -181,8 +181,8 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .section2 .sectionContent {
 	font-family: sans-serif;
 	color: rgba(255,255,255,1.00);
-	font-size: 15px;
-	line-height: 1.8;
+	line-height: 1.7;
+	font-size: 1em;
 }
 .mainContent {
 	display: block;
@@ -226,10 +226,9 @@ footer .footerDisclaimer span {
 }
 footer .footerNote {
 	font-family: sans-serif;
-	font-size: 14px;
-	line-height: 18px;
+	font-size: 1em;
+	line-height: 1.7;
 	color: rgba(104,103,103,1.00);
-	font-weight: 700;
 }
 footer .footerNote span {
 	color: rgba(181,178,178,1.00);
@@ -268,7 +267,7 @@ header .profileHeader {
 }
 header .profileHeader p {
 	text-align: justify;
-	font-size: 15px;
+	font-size: 1em;
 	line-height: 1.8;
 }
 header .profileHeader H1 {
@@ -424,8 +423,9 @@ footer .footerDisclaimer {
 }
 footer .footerNote {
 	float: right;
-	margin-right: 3%;
 	font-family: sans-serif;
+	font-size: 1em;
+	line-height: 1.7;
 }
 .contactuspic {
 	padding-bottom: 20px;
@@ -525,6 +525,8 @@ footer .footerNote {
 	margin-right: 3%;
 	font-family: sans-serif;
 	color: rgba(158,158,158,1.00);
+	font-size: 1em;
+	line-height: 1.7;
 }
 
 .bizmeeting {
