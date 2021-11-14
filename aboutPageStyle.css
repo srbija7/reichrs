@@ -215,9 +215,9 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 /* Footer */
 footer .footerDisclaimer {
 	font-family: sans-serif;
-	font-size: 14px;
 	line-height: 18px;
 	font-weight: 700;
+	font-size: small;
 }
 footer .footerDisclaimer span {
 
@@ -225,6 +225,8 @@ footer .footerDisclaimer span {
 footer .footerNote {
 	font-family: sans-serif;
 	line-height: 1.7;
+	font-size: small;
+	font-weight: 700;
 }
 footer .footerNote span {
 	color: rgba(181,178,178,1.00);
@@ -415,16 +417,17 @@ header .socialNetworkNavBar .socialNetworkNav {
 /* Footer */
 footer .footerDisclaimer {
 	float: left;
-	margin-left: 3%;
 	font-family: sans-serif;
 	font-weight: 700;
-	font-size: 14px;
-	line-height: 18px;
+	line-height: 1.7;
+	font-size: small;
 }
 footer .footerNote {
 	float: right;
 	font-family: sans-serif;
 	line-height: 1.7;
+	font-size: small;
+	font-weight: 700;
 }
 .contactuspic {
 	padding-bottom: 20px;
@@ -519,17 +522,17 @@ header .socialNetworkNavBar .socialNetworkNav {
 /* Footer */
 footer .footerDisclaimer {
 	float: left;
-	margin-left: 3%;
 	font-family: sans-serif;
 	font-weight: 700;
-	font-size: 14px;
-	line-height: 18px;
+	line-height: 1.7;
+	font-size: small;
 }
 footer .footerNote {
 	float: right;
-	margin-right: 3%;
 	font-family: sans-serif;
 	line-height: 1.7;
+	font-size: small;
+	font-weight: 700;
 }
 
 .bizmeeting {
